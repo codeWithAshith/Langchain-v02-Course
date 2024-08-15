@@ -1,0 +1,6 @@
+langchain-core
+langchain-community
+langchain-ollama
+pypdf
+wikipedia
+langchain-chroma>=0.1.2
